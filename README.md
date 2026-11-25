@@ -1,3 +1,5 @@
+﻿> **Based on** [Realtime Sign Language Detection Using LSTM](https://github.com/AvhishekAdhikary/Realtime-Sign-Language-Detection-Using-LSTM-Model) by Avhishek Adhikary (MIT License). The `v2` folder contains my own extensions.
+
 # Realtime Sign Language Detection Using LSTM Model
 
 ![Mediapipe Detection](https://github.com/AvhishekAdhikary/Realtime-Sign-Language-Detection-Using-LSTM-Model/assets/32614982/4d6a7542-2409-424f-9c9f-6b90a3236ea6)
@@ -93,3 +95,4 @@ This section states that the Realtime Sign Language Detection Using LSTM Model p
 ## Contact
 
 For any questions or inquiries, feel free to contact me at avhishe.adhikary11@gmail.com.
+
